@@ -35,11 +35,11 @@ User Manual & Supporters: A step-by-step guide with screenshots for end-users & 
 **Development Team**
 This project was a collaborative effort by my classmates for the 2nd Semester BCA degree:
 
-Nidhi J Shetty – UI Designing & Frontend |
+Nidhi J Shetty – UI Designing & Frontend | https://github.com/nidhi-28-shetty
 
 Suhas N Kumar – Security & Reporting | https://github.com/martin-magni
 
-Y Feroza – Database Designing & Backend |
+Y Feroza – Database Designing & Backend | https://github.com/Feroza25
 
 Do feel free to contact us for any kind of support required.
 #ByCommunity_ToCommunity
