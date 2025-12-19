@@ -24,6 +24,14 @@ Version Control: Git & GitHub
 Clone the Repository: git clone https://github.com/martin-magni/Hotel-Management-System.git
 Open Project: Launch Visual Studio 2022 and open the .sln file.
 Create and store all the .txt supporting files.
+**Note: If these files are missing, some modules may fail to open. You should create empty versions of these:
+credentials.txt (Stores login info)
+reservations.txt (Stores booking data)
+rooms.txt (Stores room inventory)
+bills.txt (Stores generated invoices)
+guests.txt (Stores guest profiles)
+staff.txt (Stores employee records)
+roomAvailability.txt (Crucial for the checkRoomAvailability function)**
 Update the connection string in the App.config file to match your local server.
 Build & Run: Press F5 or click the Start button in Visual Studio.
 
